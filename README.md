@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning fullstack-developing
 - 👯 I’m looking to collaborate on an application project
 - 🤔 I’m looking for help with CSS
-- 💬 Ask me about ...
 - 📫 How to reach me: 
       - [telegram](https://t.me/Rockntt)
       - [Discord](@rockn11)
