@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a social network for runners as a backend dev
 - 🌱 I’m currently learning fullstack-developing
 - 👯 I’m looking to collaborate on an application project
-- 🤔 I’m looking for help with CSS
+- 🤔 I’m looking for help with Java
 - 📫 How to reach me: 
       - [telegram](https://t.me/Rockntt)
       - [Discord](@rockn11)
