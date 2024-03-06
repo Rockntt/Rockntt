@@ -18,7 +18,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-## My last week coding stats
+## Current week coding stats
 <!--START_SECTION:waka-->
 
 ```txt
