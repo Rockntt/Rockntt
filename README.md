@@ -19,10 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             21 mins         ██████████████░░░░░░░░░░░   55.71 %
-JavaScript         17 mins         ███████████░░░░░░░░░░░░░░   44.11 %
-HTML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python             44 mins         ██████████████████░░░░░░░   72.06 %
+JavaScript         17 mins         ███████░░░░░░░░░░░░░░░░░░   27.83 %
+HTML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
