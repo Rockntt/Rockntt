@@ -2,7 +2,7 @@
 
 ```
 - 🔭 I’m currently working on a UAV computer vision project for SKAT competition
-- 🌱 I’m currently learning fullstack-developing
+- 🌱 I’m currently learning fullstack-developing & computer vision
 - 👯 I’m looking to collaborate on an application project
 ```
 
