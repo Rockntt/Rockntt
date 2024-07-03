@@ -16,11 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 44 mins    ████████████▒░░░░░░░░░░░░   49.76 %
-Python     1 hr 25 mins    ██████████░░░░░░░░░░░░░░░   40.66 %
-Text       12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-C++        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
