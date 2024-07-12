@@ -2,7 +2,7 @@
 
 ```
 - 🔭 I’m currently working on a UAV object detection project for SKAT competition
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently interested in learning more about ML
 - 👯 I’m looking to collaborate on an application project
 ```
 
