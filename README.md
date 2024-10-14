@@ -2,7 +2,7 @@
 
 ```
 - 🔭 I’m currently working on a computer vision project for city safety
-- 🌱 I’m currently interested in learning more about ML
+- 🌱 I’m currently interested in learning more about ML and Data Science
 - 👯 I’m looking to collaborate on a computer vision projects
 ```
 
