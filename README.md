@@ -14,10 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             8 hrs 52 mins   ████████████████████████▒   97.40 %
-Text               11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Requirements.txt   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-PythonStub         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   8 hrs 40 mins   ████████████████████████▓   98.52 %
+Text     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
