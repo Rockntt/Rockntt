@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=18C375&background=15151500&vCenter=true&multiline=true&random=false&width=435&height=100&lines=Rockntt;MAI+student" alt="Typing SVG" /></a>
 
 ```
-- 🔭 I’m currently studying IT & Maths at MAI
 - 👯 I’m looking to collaborate on a computer vision projects
 ```
 
